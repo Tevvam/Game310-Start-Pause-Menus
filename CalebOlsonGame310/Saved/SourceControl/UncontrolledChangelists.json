@@ -1,0 +1,35 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Program Files/Epic Games/UE_5.4/Engine/Content/EngineMaterials/FlattenMaterial_VT.uasset",
+				"C:/Users/cdols/Downloads/CalebOlsonGame310-main/CalebOlsonGame310-main/CalebOlsonGame310/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/cdols/Downloads/CalebOlsonGame310-main/CalebOlsonGame310-main/CalebOlsonGame310/Content/StartLevel.umap",
+				"C:/Users/cdols/Downloads/CalebOlsonGame310-main/CalebOlsonGame310-main/CalebOlsonGame310/Content/UI/StartLevel.umap",
+				"C:/Users/cdols/Downloads/CalebOlsonGame310-main/CalebOlsonGame310-main/CalebOlsonGame310/Content/CalebOlsonGame310Whietbox.umap",
+				"C:/Users/cdols/Downloads/CalebOlsonGame310-main/CalebOlsonGame310-main/CalebOlsonGame310/Content/UI/StartMenu.uasset",
+				"C:/Users/cdols/Downloads/CalebOlsonGame310-main/CalebOlsonGame310-main/CalebOlsonGame310/Content/StartMenuCInematic.umap",
+				"C:/Users/cdols/Downloads/CalebOlsonGame310-main/CalebOlsonGame310-main/CalebOlsonGame310/Content/Sequences/StartSequence.uasset",
+				"C:/Users/cdols/Downloads/CalebOlsonGame310-main/CalebOlsonGame310-main/CalebOlsonGame310/Content/2DSideScrollerBP/Blueprints/2DSideScrollerCharacter.uasset",
+				"C:/Users/cdols/Downloads/CalebOlsonGame310-main/CalebOlsonGame310-main/CalebOlsonGame310/Content/UI/PauseMenu.uasset",
+				"C:/Users/cdols/Downloads/CalebOlsonGame310-main/CalebOlsonGame310-main/CalebOlsonGame310/Content/Input/IA_Pause.uasset",
+				"C:/Users/cdols/Downloads/CalebOlsonGame310-main/CalebOlsonGame310-main/CalebOlsonGame310/Content/Input/IMC_Default.uasset",
+				"C:/Users/cdols/Downloads/CalebOlsonGame310-main/CalebOlsonGame310-main/CalebOlsonGame310/Content/MyContent/Blueprints/My2DPlayerCharacter.uasset",
+				"C:/Users/cdols/OneDrive/Documents/Unreal Projects/CalebOlsonGame310/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/cdols/OneDrive/Documents/Unreal Projects/GettingStartedWithYourPap/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/cdols/OneDrive/Documents/Unreal Projects/GettingStartedWithYourPap/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap.umap",
+				"C:/Users/cdols/OneDrive/Documents/Unreal Projects/GettingStartedWithYourPap/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/cdols/OneDrive/Documents/Unreal Projects/GettingStartedWithYourPap/Content/2DSideScroller/Materials/NewMaterial1.uasset",
+				"C:/Users/cdols/OneDrive/Documents/Unreal Projects/GettingStartedWithYourPap/Content/2DSideScroller/Materials/PrototypingSpriteMaterial1.uasset",
+				"C:/Users/cdols/OneDrive/Documents/Unreal Projects/GettingStartedWithYourPap/Content/2DSideScroller/Materials/PrototypingSpriteMaterial2.uasset",
+				"C:/Users/cdols/OneDrive/Documents/Unreal Projects/GettingStartedWithYourPap/Content/2DSideScroller/Materials/NewMaterial.uasset",
+				"C:/Users/cdols/OneDrive/Documents/Unreal Projects/GettingStartedWithYourPap/Content/Sound/gloomy-atmosphere-for-documentaries-195364.uasset",
+				"C:/Users/cdols/OneDrive/Documents/Unreal Projects/GettingStartedWithYourPap/Content/2DSideScrollerBP/Maps/2DSideScrollerExampleMap_BuiltData.uasset",
+				"C:/Users/cdols/OneDrive/Documents/Unreal Projects/GettingStartedWithYourPap/Content/CalebOlsonGame310Whietbox.umap"
+			]
+		}
+	]
+}
