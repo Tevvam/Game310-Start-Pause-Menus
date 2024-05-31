@@ -1,0 +1,16 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/cdols/Documents/Unreal Projects/MyProject2/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/cdols/Documents/Unreal Projects/MyProject2/Content/UI/PauseMenu.uasset",
+				"C:/Users/cdols/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Input/Actions/IA_Pause.uasset",
+				"C:/Users/cdols/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/cdols/Documents/Unreal Projects/MyProject2/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset"
+			]
+		}
+	]
+}
